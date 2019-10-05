@@ -17,7 +17,8 @@ Load Industry Data
 ------------------
 Industry data is located in csv files in \data\industry\csv
 Load this by using the Rake task
-    $ rake industry
+
+    ```$ rake industry```
 
 Contributing
 ------------
